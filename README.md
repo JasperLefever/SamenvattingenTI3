@@ -9,5 +9,3 @@
 ## [Modern Data Arhitectures](/mda/index.md)
 
 ## [Mobile: iOS](/ios/index.md)
-
-# SamenvattingenTI3
