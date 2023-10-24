@@ -4,12 +4,12 @@
 
 ## [H2 - Eliciteren](./h2.md)
 
-## [H3 - Documenteren]()
+## [H3 - Documenteren](./h3.md)
 
-## [H4 - Valideren]()
+## [H4 - Valideren](./h4.md)
 
-## [H5 - Processen]()
+## [H5 - Managen](./h5.md)
 
-## [H6 - Managen]()
+## [H6 - Processen](./h6.md)
 
-## [H7 - Business process modeling (BPMN)]()
+## [H7 - Business process modeling (BPMN)](./h7.md)
